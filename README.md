@@ -2,15 +2,21 @@
 
 Si llegaste a este repositorio, es porque Z0SO estara encantado de que entres al servidor de Minecraft y es por eso que te va a explicar como hacerlo.
 
+- ***IP del server***
+
+```ip
+game-comp.gl.joinmc.link
+```
+
 ## Requisitos
 - **Minecraft Java Edition** (versión **1.20.1**)
 
-## Pasos
+# Pasos
 
 ### Descarga
 Para facilitarte las cosas, he subido todos los archivos necesarios a Google Drive. Solo tienes que descargar un archivo zip que contiene el instalador de Forge y los mods necesarios.
 
-> **[Link de descarga]()**
+> [Link de Descarga](https://drive.google.com/drive/folders/1ZZxfsMmwi2Hvgp9xwn98E5pwd0YvQRGp?usp=sharing "https://drive.google.com/drive/folders/1ZZxfsMmwi2Hvgp9xwn98E5pwd0YvQRGp?usp=sharing")
 
 ### Contenidos del zip
 1. **Forge** (archivo `.jar`)
