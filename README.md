@@ -5,7 +5,7 @@ Si llegaste a este repositorio, es porque Z0SO estara encantado de que entres al
 - ***IP del server***
 
 ```ip
-game-comp.gl.joinmc.link
+y-proportion.gl.joinmc.link
 ```
 
 ## Requisitos
