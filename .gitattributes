@@ -1,0 +1,7 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+
+# para administrar archivos .jar
+*.jar filter=lfs diff=lfs merge=lfs -text
+
+# para administrar archivos .zip
+*.zip filter=lfs diff=lfs merge=lfs -text
