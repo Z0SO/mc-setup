@@ -15,7 +15,7 @@ Parate en este directorio y ejecuta los siguientes comandos:
 
 ```sh
 sudo rm ~/.minecraft/mods/*
-ln -s mods/ ~/.minecraft/mods
+ln -s $(pwd)/mods/ ~/.minecraft/mods
 ```
 
 Esto creara un enlace simbolico en tu carpeta mods/ de .minecraft que apunta a la carpeta mods/ de este repositorio. Esto es util para que si hay cambios de mods en este repositorio, no tengas que estar copiando los mods a tu carpeta mods/ de .minecraft.
