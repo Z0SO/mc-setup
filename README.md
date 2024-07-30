@@ -5,8 +5,26 @@ Si llegaste a este repositorio, es porque Z0SO estara encantado de que entres al
 - ***IP del server***
 
 ```ip
-game-comp.gl.joinmc.link
+decision-cop.gl.joinmc.link
 ```
+
+
+> **Nota**: Si tienes linux te recomiendo que clones este reposiotorio y borres todo el contenido de tu carpeta mods/ de .minecraft y crees un enlace simbolico apuntando a la carpeta mods/ de este repositorio.
+
+Parate en este directorio y ejecuta los siguientes comandos:
+
+```sh
+sudo rm ~/.minecraft/mods/*
+ln -s mods/ ~/.minecraft/mods
+```
+
+Esto creara un enlace simbolico en tu carpeta mods/ de .minecraft que apunta a la carpeta mods/ de este repositorio. Esto es util para que si hay cambios de mods en este repositorio, no tengas que estar copiando los mods a tu carpeta mods/ de .minecraft.
+
+Simplemente descargas el .zip o haces un git pull y ya tienes los mods actualizados.
+
+
+> **Nota**: Si tienes windows, simplemente copia los mods a tu carpeta mods/ de .minecraft.
+
 
 ## Requisitos
 - **Minecraft Java Edition** (versión **1.20.1**)
